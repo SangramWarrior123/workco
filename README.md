@@ -1,0 +1,1 @@
+this file contains basic under standing of plc program that we can use plc program in ndustry automation here in this we get to learn about count and packing of boxes in conveyor belt and it will stop when it reaches out its given maximum limit
